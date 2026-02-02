@@ -1,4 +1,4 @@
-# 📝 Advanced Task Manager App
+# 📝 Task Manager App
 
 A modern, responsive **Task Manager application** built with **React + Vite**.  
 The app demonstrates clean architecture, state management with Context API, drag-and-drop interactions, dark/light theming, and local storage persistence.
